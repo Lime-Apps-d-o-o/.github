@@ -1,4 +1,4 @@
-## gm 👋
+A small IT company from Croatia specialized in custom applications development.
 
 <!--
 
