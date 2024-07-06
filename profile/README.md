@@ -1,1 +1,1 @@
-[![Lime Apps](https://limeapps.hr/snippet.png)](https://limeapps.hr "Lime Apps")
+[![Lime Apps](https://limeapps.hr/snippet.png)](https://limeapps.hr "Lime Apps 🍃")
